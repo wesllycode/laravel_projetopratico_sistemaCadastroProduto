@@ -4,6 +4,8 @@
 [DEV.TO](https://dev.to/wesllycode)
 [TWITTER](https://twitter.com/wesllycode)
 
+
+[![ version ][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 # SOBRE O PROJETO
 - Seguir a aula do Tiago matos e criar um sistema de cadastro de produtos com Laravel
 
